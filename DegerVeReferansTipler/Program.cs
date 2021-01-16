@@ -22,6 +22,8 @@ namespace DegerVeReferansTipler
             sayilar2[0] = 999;
             //sayilar2[0] ? 999
             //Referans tipler Adresi tutar
+
+
         }
     }
 }
