@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C5E53154-5567-45C7-A1D6-7F7053214382}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{72094C31-477E-4DDE-82F0-1C087372F176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{097CF094-4B7C-4C27-A06B-2242F530524C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{C5E53154-5567-45C7-A1D6-7F7053214382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5E53154-5567-45C7-A1D6-7F7053214382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5E53154-5567-45C7-A1D6-7F7053214382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72094C31-477E-4DDE-82F0-1C087372F176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72094C31-477E-4DDE-82F0-1C087372F176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72094C31-477E-4DDE-82F0-1C087372F176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72094C31-477E-4DDE-82F0-1C087372F176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097CF094-4B7C-4C27-A06B-2242F530524C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097CF094-4B7C-4C27-A06B-2242F530524C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097CF094-4B7C-4C27-A06B-2242F530524C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097CF094-4B7C-4C27-A06B-2242F530524C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
